@@ -24,8 +24,8 @@ published: true
   </div>
 <br />
   <div class="date" style="margin-top: 25px;">
-    By {{ page.author }} Date:
-          {{  page.date | date: '%-d' }} /
+    Por {{ page.author }} Fecha:
+        {{  page.date | date: '%-d' }} /
             {% assign m = page.date | date: '%-m' %}
             {% case m %}
               {% when '1' %}enero
@@ -51,7 +51,7 @@ published: true
   {% else %}
     {% assign categories = page.categories %}
   {% endif %}
-  Archived: 
+  Archivado: 
   {% for category in categories %}
   <a href="{{site.baseurl}}/categories/{{category|slugize}}">{{category}}</a>
   {% unless forloop.last %}&nbsp;{% endunless %}
