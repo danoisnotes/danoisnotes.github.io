@@ -5,29 +5,29 @@ permalink: /acerca-de/
 published: true
 ---
 
-This is an English version of the Blogpocket.com blog. Author: Antonio Cambronero. Here you will see just a few of Blogpocket.com's posts translated into English.
+Este es un blog personal de Antonio Cambronero. Pero no esperes encontrar una temática determinada. 
 
-### More information
+### Más información
 
-Antonio Cambronero is a computer engineer, originally from Madrid (Spain), and a WordPress specialist with more than 25 years of experience in computer technical support departments, systems analysis, productivity, process optimization, customer service and training, in multinational companies. Defender of #minimalism and slow blogging. Addicted to #productivity. I believe in living life with intention and purpose.
+Antonio Cambronero es ingeniero informático, originario de Madrid (España), y especialista en WordPress con más de 25 años de experiencia en departamentos de soporte técnico informático, análisis de sistemas, productividad, optimización de procesos, atención al cliente y formación, en empresas multinacionales. Defensor del #minimalismo y el slow blogging. Adicta a la #productividad. Creo en vivir la vida con intención y propósito.
 
-- Employee of Telefónica de España, for more than 20 years, as a computer engineer, trainer and consultant.
-- Founder of the blog **Blogpocket** (25-1-2001).
-- Author of the book: **"Indispensable Twitter Manual"** (Ed. Anaya Multimedia, 2012).
-- Professor of the Postgraduate Course in Digital Communication and Social Media, at **Inesdi Digital Business School**.
-- TOP 100 influencer in Spanish according to Forbes 2021, technology section.
-- Researcher, adviser, author and consultant at Blogpocket.
+- Empleado de Telefónica de España, desde hace más de 20 años, como ingeniero informático, formador y consultor.
+- Fundador del blog **Blogpocket** (25-1-2001).
+- Autor del libro: **"Manual Indispensable de Twitter"** (Ed. Anaya Multimedia, 2012).
+- Profesor del Posgrado en Comunicación Digital y Social Media, en **Inesdi Digital Business School**.
+- TOP 100 influencer en español según Forbes 2021, apartado tecnología.
+- Investigador, asesor, autor y consultor en Blogpocket.
 
-### Antonio Cambronero publishes articles, newsletters, podcasts and videos on:
+### Antonio Cambronero publica artículos, boletines, podcasts y vídeos sobre:
 
 - [Blogpocket](https://www.blogpocket.com)
 
-### Antonio Cambdronero is in:
+### Antonio Cambdronero está en:
 
-- [Mastodon](https://federate.social/@blogpocket)
+- [Mastodonte](https://federate.blogpocket.com/@acambronero)
 - [Twitter](https://www.twitter.com/blogpocket)
 - [LinkedIn](https://www.linkedin.com/in/antoniocambronero/)
 
-### Contact:
+### Contacto:
 
 [blogpocket(at)gmail.com](mailto:blogpocket@gmail.com)
