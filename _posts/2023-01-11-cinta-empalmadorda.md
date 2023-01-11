@@ -6,7 +6,7 @@ categories: ia
 ---
 ## Cinta empalmadora
 
-![Kit cinta empalmadora]({{site.baseurl}}/CINTA-EMPALMADORA.jpg)
+![Kit cinta empalmadora]({{site.baseurl}}/images/CINTA-EMPALMADORA.jpg)
 
 
 En 1980 existía un kit para reparar cintas de cassette que se habían partido en dos. 
