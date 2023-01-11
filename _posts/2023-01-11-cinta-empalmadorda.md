@@ -3,6 +3,7 @@ published: true
 layout: post
 author: Antonio C.
 categories: ia
+image: images/CINTA-EMPALMADORA.jpg
 ---
 ## Cinta empalmadora
 
