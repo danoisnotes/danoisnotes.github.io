@@ -6,20 +6,20 @@ published: true
 <article class="post">
   <h1>{{ page.title }}</h1>
 <br />
-  <a title="Share on Mastodon" href="https://blogpocket.github.io/tootpick/#text=Check%20out%20https://blogpocket.github.io{{  page.url }}%20by%20@blogpocket@federate.social"><img src="https://edent.github.io/SuperTinyIcons/images/svg/mastodon.svg" width="40" alt="icono de Mastodon" /></a><span class="button-mastodon" style="font-size: 12px;">&nbsp; Share on Mastodon</span>
+  <a title="Share on Mastodon" href="https://blogpocket.github.io/tootpick/#text=Check%20out%20https://blogpocket.github.io{{  page.url }}%20by%20@blogpocket@federate.social"><img src="https://edent.github.io/SuperTinyIcons/images/svg/mastodon.svg" width="40" alt="icono de Mastodon" /></a><span class="button-mastodon" style="font-size: 12px;">&nbsp; Comparte en Mastodon</span>
   <br /><br />
   <div class="entry">
     {{ content }}
   </div>
  <br />
-  <a title="Share on Mastodon"  href="https://blogpocket.github.io/tootpick/#text=Check%20out%20https://blogpocket.github.io{{  page.url }}%20by%20@blogpocket@federate.social"><img src="https://edent.github.io/SuperTinyIcons/images/svg/mastodon.svg" width="40" alt="icono de Mastodon" /></a><span class="button-mastodon" style="font-size: 12px;">&nbsp; Share on Mastodon</span>
+  <a title="Share on Mastodon"  href="https://blogpocket.github.io/tootpick/#text=Check%20out%20https://blogpocket.github.io{{  page.url }}%20by%20@blogpocket@federate.social"><img src="https://edent.github.io/SuperTinyIcons/images/svg/mastodon.svg" width="40" alt="icono de Mastodon" /></a><span class="button-mastodon" style="font-size: 12px;">&nbsp; Comparte en Mastodon</span>
   <br />
  <div style="text-align: center; margin-top: 10px; margin-bottom: 25px;">
    {% if page.previous %}
-  <a class="button" style="font-size: 12px;" title="Prev post" href="{{  site.baseurl }}{{  page.previous.url }}"><span class="fas fa-chevron-circle-left"></span>&nbsp;Prev</a>
+  <a class="button" style="font-size: 12px;" title="Prev post" href="{{  site.baseurl }}{{  page.previous.url }}"><span class="fas fa-chevron-circle-left"></span>&nbsp;Anterior</a>
 {% endif %}
  {% if page.next %}
-  &nbsp;&nbsp;&nbsp;&nbsp;<a class="button" style="font-size: 12px;" title="Next post" href="{{  site.baseurl }}{{  page.next.url }}"><span class="fas fa-chevron-circle-right"></span>&nbsp;Next</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;<a class="button" style="font-size: 12px;" title="Next post" href="{{  site.baseurl }}{{  page.next.url }}"><span class="fas fa-chevron-circle-right"></span>&nbsp;Siguiente</a>
 {% endif %}
   </div>
 <br />
@@ -28,18 +28,18 @@ published: true
           {{  page.date | date: '%-d' }} /
             {% assign m = page.date | date: '%-m' %}
             {% case m %}
-              {% when '1' %}january
-                {% when '2' %}february
-                {% when '3' %}march
-                {% when '4' %}april
-                {% when '5' %}may
-                {% when '6' %}june
-                {% when '7' %}july
-                {% when '8' %}august
-                {% when '9' %}september
-                {% when '10' %}october
-                {% when '11' %}november
-                {% when '12' %}december
+              {% when '1' %}enero
+                {% when '2' %}febrero
+                {% when '3' %}marzo
+                {% when '4' %}abril
+                {% when '5' %}mayo
+                {% when '6' %}junio
+                {% when '7' %}julio
+                {% when '8' %}agosto
+                {% when '9' %}septiembre
+                {% when '10' %}octubre
+                {% when '11' %}noviembre
+                {% when '12' %}diciembre
             {% endcase %}
             /
             {{  page.date | date: '%Y' }}
@@ -63,7 +63,7 @@ published: true
   <br />
   <hr />
   <div style="text-align: center; margin-top: 20px;">
-  You can enjoy more articles like this in <a href="{{  site.baseurl }}/archive">the site archive.</a>.
+  Puedes disfrutar de m&aacute;s publicacionesn como esta en  <a href="{{  site.baseurl }}/archive">the site archive.</a>.
   </div>
   {% include disqus.html %}
 </article>
