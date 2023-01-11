@@ -1,5 +1,8 @@
 ---
 published: false
+layout: post
+author: Antonio C.
+categories: ia
 ---
 ## Cinta empalmadora
 
