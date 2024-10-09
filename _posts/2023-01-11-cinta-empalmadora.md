@@ -4,7 +4,7 @@ layout: post
 author: Antonio C.
 categories: ia
 image: images/CINTA-EMPALMADORA.jpg
-published: false 
+published: true 
 ---
 En 1980 existía un kit para reparar cintas de cassette que se habían partido en dos. 
 
