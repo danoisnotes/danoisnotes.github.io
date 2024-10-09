@@ -2,7 +2,7 @@
 published: true
 layout: post
 author: Antonio C.
-categories: ia
+categories: 
 image: images/CINTA-EMPALMADORA.jpg
 published: true 
 ---
