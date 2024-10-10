@@ -93,7 +93,7 @@ Con teléfonos y otros dispositivos móviles: apague los servicios de ubicación
     
 Con dispositivos inteligentes como televisores, lavadoras, refrigeradores, etc. Disminuya las aplicaciones y servicios que no desea seguirle.
     
-2.  **Desmarque las cookies cuando pueda.**
+2. **Desmarque las cookies cuando pueda.**
     
 Cuando navegue por un nuevo sitio web, simplemente haga clic en "no" cuando se le solicite que recopile cookies. Si bien esto puede inhibir alguna funcionalidad, vale la pena por su seguridad y su dispositivo. La mayoría de los navegadores también le permiten deshabilitar las cookies de terceros a nivel mundial, pero esto a veces puede causar problemas en los sitios web que las necesitan legítimamente.
     
