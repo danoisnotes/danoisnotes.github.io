@@ -4,7 +4,7 @@ title: Espionaje en internet
 image: 
 author: José Danois
 categories: 
-published: false 
+published: true
 ---
 
 <iframe src="https://player.vimeo.com/video/699557886?h=b8e97d9a38" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
