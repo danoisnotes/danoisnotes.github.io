@@ -6,6 +6,6 @@ author: José Danois
 categories: 
 published: true 
 ---
-Esta es una entrada de Prueba
+>Esta es una entrada de Prueba
 
 ![rinoceronte-durero-1515.png](/images/rinoceronte-durero-1515.png)
