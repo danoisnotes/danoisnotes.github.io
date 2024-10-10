@@ -83,7 +83,7 @@ El objetivo de la privacidad es proteger la libertad de las personas. Por lo tan
 
 Aquí hay varias formas de ayudar a evitar o limitar la información que se recopila sobre usted.
 
-1. **Arregle su configuración de privacidad.**
+1.  **Arregle su configuración de privacidad.**
     
 En la mayoría de los navegadores, puede ajustar su configuración de privacidad. Use un navegador web orientado a la privacidad y habilite el bloqueo del rastreador si está disponible. Algunos pueden permitirle ver qué sitios web han estado tratando de rastrearlo. Evite usar navegadores que supervisen activamente lo que está haciendo y qué sitios web mira.
 
@@ -93,29 +93,29 @@ Con teléfonos y otros dispositivos móviles: apague los servicios de ubicación
     
 Con dispositivos inteligentes como televisores, lavadoras, refrigeradores, etc. Disminuya las aplicaciones y servicios que no desea seguirle.
     
-2. **Desmarque las cookies cuando pueda.**
+2.  **Desmarque las cookies cuando pueda.**
     
 Cuando navegue por un nuevo sitio web, simplemente haga clic en "no" cuando se le solicite que recopile cookies. Si bien esto puede inhibir alguna funcionalidad, vale la pena por su seguridad y su dispositivo. La mayoría de los navegadores también le permiten deshabilitar las cookies de terceros a nivel mundial, pero esto a veces puede causar problemas en los sitios web que las necesitan legítimamente.
     
-3. **Limite la información personal que comparte en las redes sociales.**
+3.  **Limite la información personal que comparte en las redes sociales.**
     
 No comparta demasiada información en las redes sociales, ya que el sitio web de las redes sociales, u otros servicios que lo usan, puede recopilar esa información. No participe en juegos de redes sociales que requieran acceso a información innecesaria sobre usted, como su lista de fotos y amigos. Solo acepte una solicitud de amistad en las redes sociales si realmente conoce a la persona y se ha asegurado de que la solicitud sea realmente de la persona que dice ser.
     
-4. **Revise su configuración de privacidad en las redes sociales.**
+4.  **Revise su configuración de privacidad en las redes sociales.**
     
  Es posible que desee limitar quién puede ver sus publicaciones. ¿Es necesario mostrar dónde o cuándo nació? ¿El sitio web de redes sociales necesita saber esa información?
     
-5. **Tenga cuidado al navegar por la web.**
+5.  **Tenga cuidado al navegar por la web.**
     
  Además de elegir un navegador que no recopile información sobre usted, considere navegar en modo privado (p. Ej., Incognito). Tenga en cuenta que, al usar un modo de incógnito, algunos navegadores y sitios web pueden seguirlo, en función de su dirección IP u otros sitios web que navegó durante esa sesión privada.
     
-6. **Use un motor de búsqueda orientado a la privacidad.**
+6.  **Use un motor de búsqueda orientado a la privacidad.**
     
 La mayoría de las personas usan el motor de búsqueda de Google. Pero algunos pueden no darse cuenta de que Google y otros motores de búsqueda similares recopilan y venden información sobre sus búsquedas y los sitios web que visita. Puede decir que cuando busca información usándolos, buscan información sobre usted.
     
 Elija motores de búsqueda orientados a la privacidad, como  [DuckDuckGo](https://duckduckgo.com/),  [Starpage](https://www.startpage.com/), [Escosia](https://www.ecosia.org/)  y otros que no venden información sobre usted.
     
-7. **Piensa antes de hacer clic.**
+7.  **Piensa antes de hacer clic.**
     
 El phishing es una de las formas en que los piratas informáticos usan para obtener su información. Intentan engañarte para que proporciones información valiosa y personal. A menudo se hace con correos electrónicos extremadamente bien hechos que parecen ser de compañías de buena reputación, donde se le dice que haga clic en un enlace para confirmar algo o evitar algo más. Del mismo modo, estos atacantes envían mensajes en las redes sociales que parecen ser de un amigo que te dice algo realmente inteligente que solo necesitas hacer clic para ver.
     
