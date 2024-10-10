@@ -12,7 +12,7 @@ published: true
 
 La mayoría de los usuarios de internet no están al tanto de la gran cantidad de datos que se recopila de ellos cuando están en línea. Las grandes compañías tecnológicas nos perfilan para sacar ganancias de nuestros datos. No pienses que estoy hablando de teorías de conspiración. Estoy hablando de una realidad que ocurre cada vez que navegamos por internet. Aunque no soy un obsesivo del tema, me parece importante que entendamos lo que sucede y que podemos hacer para proteger nuestra privacidad en línea.
 
-Para los que no están al tanto de lo que es el espionaje en el internet y como la privacidad de los usuarios del internet es vulnerada, https://banspying.org es un buen lugar para que comenzar a orientarse. A la vez puedes tomar acción al respecto. 
+Para los que no están al tanto de lo que es el espionaje en el internet y como la privacidad de los usuarios del internet es vulnerada, [banspying.org](https://banspying.org) es un buen lugar para que comenzar a orientarse. A la vez puedes tomar acción al respecto. 
 
 Puedes accesar la [página](https://banspying.org) que es en inglés. Aquí te comparto algunas de las cosas que dice la página.
 
