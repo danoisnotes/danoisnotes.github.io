@@ -87,7 +87,7 @@ Aquí hay varias formas de ayudar a evitar o limitar la información que se reco
     
 En la mayoría de los navegadores, puede ajustar su configuración de privacidad. Use un navegador web orientado a la privacidad y habilite el bloqueo del rastreador si está disponible. Algunos pueden permitirle ver qué sitios web han estado tratando de rastrearlo. Evite usar navegadores que supervisen activamente lo que está haciendo y qué sitios web mira.
 
-==Insertar foto==
+![Captura de pantalla 2024-10-10 125023.png](/images/Captura de pantalla 2024-10-10 125023.png)
     
 Con teléfonos y otros dispositivos móviles: apague los servicios de ubicación, Bluetooth (que se puede usar para rastrear dispositivos) y otra recopilación de información cuando sea innecesario y no esté en uso. Deshabilite el intercambio de información con el proveedor de teléfonos. Además, desactive todos los permisos no deseados para todas las aplicaciones.
     
@@ -113,7 +113,7 @@ No comparta demasiada información en las redes sociales, ya que el sitio web de
     
 La mayoría de las personas usan el motor de búsqueda de Google. Pero algunos pueden no darse cuenta de que Google y otros motores de búsqueda similares recopilan y venden información sobre sus búsquedas y los sitios web que visita. Puede decir que cuando busca información usándolos, buscan información sobre usted.
     
-Elija motores de búsqueda orientados a la privacidad, como  [DuckDuckGo](https://duckduckgo.com/),  [Página de inicio](https://www.startpage.com/),  [Neeva](https://neeva.com/),  [Escosia](https://www.ecosia.org/)  y otros que no venden información sobre usted.
+Elija motores de búsqueda orientados a la privacidad, como  [DuckDuckGo](https://duckduckgo.com/),  [Starpage](https://www.startpage.com/), [Escosia](https://www.ecosia.org/)  y otros que no venden información sobre usted.
     
 7.  **Piensa antes de hacer clic.**
     
