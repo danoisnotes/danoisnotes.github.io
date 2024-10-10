@@ -7,7 +7,7 @@ categories:
 published: true
 ---
 
-<iframe src="https://player.vimeo.com/video/699557886?h=b8e97d9a38" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/699557886?h=b8e97d9a38" width="100%" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 <p><a href="https://vimeo.com/699557886">Ban Spying on the Internet</a> from <a href="https://vimeo.com/user172407952">Vivaldi Browser</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 La mayoría de los usuarios de internet no están al tanto de la gran cantidad de datos que se recopila de ellos cuando están en línea. Las grandes compañías tecnológicas nos perfilan para sacar ganancias de nuestros datos. No pienses que estoy hablando de teorías de conspiración. Estoy hablando de una realidad que ocurre cada vez que navegamos por internet. Aunque no soy un obsesivo del tema, me parece importante que entendamos lo que sucede y que podemos hacer para proteger nuestra privacidad en línea.
