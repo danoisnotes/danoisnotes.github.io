@@ -7,7 +7,6 @@ image: images/CINTA-EMPALMADORA.jpg
 published: true 
 ---
 En 1980 existía un kit para reparar cintas de cassette que se habían partido en dos. 
-
 ![Kit cinta empalmadora]({{site.baseurl}}/images/CINTA-EMPALMADORA.jpg)
 
 Hoy estuve arreglando la segunda cinta con el "Concierto homenaje a Canito" con ese kit que, milagrosamente, apareció ente los objetos que tengo guardados de aquella época.
