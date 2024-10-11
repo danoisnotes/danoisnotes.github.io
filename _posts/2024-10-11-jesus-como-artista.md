@@ -6,13 +6,13 @@ author: José Danois
 categories: 
 published: true
 ---
-El siguiente extracto es de una carta[^1] de Vincent Van Gogh[^2] a Emile Bernard, el 26 de junio de 1888. Es interesante como Van Gogh que en algún momento fuera pastor protestante, se expresa en esta carta acerca de Jesús. El escribe:
-
-Solo entre todos los filósofos y sabios, Jesús afirmó como base de su enseñanza una vida eterna, la infinidad del tiempo y la imperiosa necesidad de la verdad y de la dedicación completa. Él vivió decididamente como artista. Más grande que todos los artistas, él despreció el mármol, la arcilla y la paleta, ya que obraba en la carne viva. Es decir, este artista increíble, que no puede ser comprendido por el grosero instrumento que es nuestra mente moderna, nerviosa, desordenada, no hizo estatuas o cuadros o aun libros – lo dice él mismo – sino que creó hombres reales, vivos, inmortales.
-
-[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc5b0ec12-7299-48d3-ad26-3afdca319097_600x512.jpeg)
+El siguiente extracto es de una carta[^1] de Vincent Van Gogh[^2] a Emile Bernard, el 26 de junio de 1888. Es interesante como Van Gogh que en algún momento fuera pastor protestante, se expresa en esta carta acerca de Jesús. 
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc5b0ec12-7299-48d3-ad26-3afdca319097_600x512.jpeg)
+
+El escribe:
+
+Solo entre todos los filósofos y sabios, Jesús afirmó como base de su enseñanza una vida eterna, la infinidad del tiempo y la imperiosa necesidad de la verdad y de la dedicación completa. Él vivió decididamente como artista. Más grande que todos los artistas, él despreció el mármol, la arcilla y la paleta, ya que obraba en la carne viva. Es decir, este artista increíble, que no puede ser comprendido por el grosero instrumento que es nuestra mente moderna, nerviosa, desordenada, no hizo estatuas o cuadros o aun libros – lo dice él mismo – sino que creó hombres reales, vivos, inmortales.
 
 Este gran artista (Jesús), pues, no escribió tampoco un solo libro. Sin duda le repugnaría la literatura cristiana en general. Porque ¡cuán raros en la literatura cristiana son los productos que puedan compararse favorablemente con el Evangelio de Lucas o las Cartas de Pablo, obras tan sencillas en su forma austera y marcial! Sin embargo, aunque el gran artista Jesús rechazaba poner sus ideas y sus sentimientos en libros, ciertamente no despreciaba la palabra hablada, especialmente la parábola. (¡Qué fuerza hay en los cuentos del sembrador, de la cosecha, de la higuera!) Y cuál de nosotros osaría decir que él mentía cuando profetizó con desdén la destrucción de lo que Roma había construido, aseverando a la vez: aunque pasarán el cielo y la tierra, mis palabras no pasarán.
 
